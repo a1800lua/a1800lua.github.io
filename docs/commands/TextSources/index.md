@@ -5,8 +5,6 @@ parent: Lua-Commands
 has_children: true
 ---
 # TextSources.TextSourcesRoots (ts)
-
-
 ## Contracts
 ```ts.Contracts.IncreaseGoodXP(GUID:int,Amount:int)```
 >increases or decreases the export volume of GUID by Amount
