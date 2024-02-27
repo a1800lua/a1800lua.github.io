@@ -2,7 +2,6 @@
 title: game
 layout: default
 parent: Lua-Commands
-has_children: true
 ---
 
 # game
