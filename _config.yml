@@ -1,7 +1,5 @@
 title: Anno 1800 lua
 description: Modding with .lua and C-API
-theme: just-the-docs
+theme: default
 
 url: https://a1800lua.github.io
-
-aux_links:
