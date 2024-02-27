@@ -1,7 +1,7 @@
 ---
 title: game
 layout: default
-has-children: yes
+has_children: true
 ---
 
 # game

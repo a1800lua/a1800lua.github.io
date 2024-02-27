@@ -1,5 +1,5 @@
 ---
 title: Textsources
 layout: home
-has-children: yes
+has_children: true
 ---
