@@ -2,7 +2,6 @@
 title: net
 layout: home
 parent: Lua-Commands
-has_children: false
 ---
 # net
 ```net.showOverlayUrl(URL:string)```

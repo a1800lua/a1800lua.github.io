@@ -2,7 +2,6 @@
 title: session
 layout: home
 parent: Lua-Commands
-has_children: false
 ---
 # session
 ```session.toggleResidentView()```

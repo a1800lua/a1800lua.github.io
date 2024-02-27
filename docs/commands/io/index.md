@@ -2,7 +2,6 @@
 title: io
 layout: home
 parent: Lua-Commands
-has_children: false
 ---
 # io
 ```io.popen(command:string)```
