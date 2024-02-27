@@ -2,6 +2,7 @@
 title: Area
 layout: home
 parent: Textsources
+grand_parent: Lua-Commands
 ---
 ## Area
 ```ts.Area.GetArea({SessionID=SID:int,AreaIndex=AID:int,IslandID=IID:int})```

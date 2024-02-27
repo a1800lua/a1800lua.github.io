@@ -4,6 +4,17 @@ layout: home
 parent: Lua-Commands
 has_children: true
 ---
+
+# Code
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 # TextSources.TextSourcesRoots (ts)
 ## Contracts
 ```ts.Contracts.IncreaseGoodXP(GUID:int,Amount:int)```
